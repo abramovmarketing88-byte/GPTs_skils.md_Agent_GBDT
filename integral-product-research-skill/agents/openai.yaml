@@ -1,0 +1,4 @@
+interface:
+  display_name: "Integral Product Research"
+  short_description: "Full product discovery and validation package"
+  default_prompt: "Use $integral-product-research-skill to create a full Product Discovery & Validation Package for my product idea."
