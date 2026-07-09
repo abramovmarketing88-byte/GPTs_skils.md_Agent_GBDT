@@ -1,0 +1,4 @@
+interface:
+  display_name: "Telegram Post Styles"
+  short_description: "Посты для TG в разных стилях с форматированием и футером"
+  default_prompt: "Use $telegram-post-styles-skill to write a Telegram post about [topic] in [style] style."
