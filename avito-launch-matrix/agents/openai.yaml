@@ -1,0 +1,14 @@
+interface:
+  display_name: 'Авито: от брифа до матрицы'
+  short_description: Поэтапный бриф, JTBD, офферы и матрица размещений
+  default_prompt: 'Используй $avito-launch-matrix: проведи меня по этапам подготовки
+    проекта Авито и собери матрицу заголовков, офферов, городов и фотографий.'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
